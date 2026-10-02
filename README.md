@@ -11,13 +11,13 @@ Project Name: E-commerce Product Review & Rating System
 
 Current Problem:
 
-Customers lack confidence in product quality due to the absence of genuine user feedback.
+1. Customers lack confidence in product quality due to the absence of genuine user feedback.
 
-High rate of order cancellations and product returns caused by unverified product expectations.
+2. High rate of order cancellations and product returns caused by unverified product expectations.
 
-Difficulty for store managers to identify low-quality products quickly.
+3. Difficulty for store managers to identify low-quality products quickly.
 
-Spread of unverified or fake reviews that damage store credibility.
+4. Spread of unverified or fake reviews that damage store credibility.
 
 Project Description:
 
