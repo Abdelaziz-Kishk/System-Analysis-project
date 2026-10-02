@@ -26,7 +26,7 @@ Abdelaziz
 
 1. Tangible Value : Estimated 15-20% increase in sales conversion rates and a reduction in product returns
 
-2\. Intangible Value: Enhanced customer trust, better brand loyalty, and improved product quality control
+2. Intangible Value: Enhanced customer trust, better brand loyalty, and improved product quality control
 
 ###### 
 
@@ -34,7 +34,7 @@ Abdelaziz
 
 1. Deadline: before 1 January 
 
-2\. Security: Implement strict anti-spam filters to block fake reviews
+2. Security: Implement strict anti-spam filters to block fake reviews
 
-3\. Performance: System must integrate seamlessly without affecting website load speed
+3. Performance: System must integrate seamlessly without affecting website load speed
 
