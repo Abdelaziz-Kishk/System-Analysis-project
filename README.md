@@ -20,9 +20,3 @@
 ### **Project Description:**
 The system is a dedicated review and rating module designed to integrate with e-commerce platforms. It allows verified buyers to rate products (1 to 5 stars), submit text reviews, and upload photos/videos of received items. It features an automated content moderation tool to filter spam, and provides store managers with an analytics dashboard to track top-rated and low-rated products, ultimately boosting buyer trust and sales conversion rates.
 
----
-
-## 📑 Documentation & Deliverables
-
-- 📄 **[System Request Document](docs/system-request.md)**
-- 📊 **[Feasibility Study Document](docs/feasibility-study.md)** *(Coming Soon)*
