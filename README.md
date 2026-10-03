@@ -6,7 +6,7 @@
 
 ---
 
-## 👥 Project Team
+## Project Team
 
 | Name | ID | GitHub Profile |
 | :--- | :--- | :--- |
