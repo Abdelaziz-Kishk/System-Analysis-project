@@ -8,13 +8,13 @@
 
 ## Project Team
 
-| Name | ID | GitHub Profile |
-| :--- | :--- | :--- |
-| Abdelaziz Mohamed Abdelaziz Kishk | 1202540752 | [GitHub Profile](https://github.com/Abdelaziz-Kishk) 
-| Mohammed Waleed Abu El Ela Ahmed | 1202540912 | [GitHub Profile](https://github.com/Mohamed-waleed9)
-| Youssef osama ahmed sherif | 1202541001 | [GitHub Profile](https://github.com/youseefosama696-boop)
-| Abdallah Wahba El said Atallah  | 1202540762 | [GitHub Profile](https://github.com/abdallawahba42-creator)
-| Kirolos gorge saad attia | 1202540816 | [GitHub Profile](https://github.com/kirolosgorgegorge-crypto)
+| Name | ID | GitHub Profile | Section | 
+| :--- | :--- | :--- | :--- | 
+| Abdelaziz Mohamed Abdelaziz Kishk | 1202540752 | [GitHub Profile](https://github.com/Abdelaziz-Kishk) | 1 
+| Mohammed Waleed Abu El Ela Ahmed | 1202540912 | [GitHub Profile](https://github.com/Mohamed-waleed9) | 2
+| Youssef osama ahmed sherif | 1202541001 | [GitHub Profile](https://github.com/youseefosama696-boop) | 1
+| Abdallah Wahba El said Atallah  | 1202540762 | [GitHub Profile](https://github.com/abdallawahba42-creator) | 1
+| Kirolos gorge saad attia | 1202540816 | [GitHub Profile](https://github.com/kirolosgorgegorge-crypto) | 2
 
 ---
 
