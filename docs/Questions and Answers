@@ -1,0 +1,104 @@
+1. Interview Open Questions (5 Questions)
+Question 1
+Q: What is your opinion regarding the current state of product feedback and customer reviews in your store?
+
+A: I think it is not good. We lack a reliable system to verify authentic reviews, which leads to a loss of customer trust and difficulty in highlighting quality products.
+
+Question 2
+Q: How does the current customer feedback workflow operate, and how do users interact with it?
+
+A: Currently, customers can only leave unstructured text comments on product pages without star ratings or media verification. Store managers have to manually inspect comments, leading to delays and spam build-up.
+
+Question 3
+Q: What are the major critical objectives you expect the new system to achieve?
+
+A: The primary objectives are to build buyer trust through verified purchaser badges, increase sales conversions, reduce product return rates, and provide real-time analytics dashboards for store managers.
+
+Question 4
+Q: How do you feel about the current problem of unverified and fake reviews affecting store credibility?
+
+A: It is extremely frustrating. Fake reviews distort product ratings, harm honest vendor reputation, and cause genuine buyers to abandon their shopping carts out of hesitation.
+
+Question 5
+Q: What specific new technologies or features do you want to integrate into the upcoming review system?
+
+A: We want automated sentiment analysis and spam filtering, image and video upload support for reviews, verified buyer badge verification, and multi-criteria rating breakdown (e.g., quality, shipping speed).
+
+2. Web Form Open Questions (5 Questions)
+Question 6
+Q: What specific difficulties do you experience when trying to submit a review for a purchased product?
+
+A: The submission form often fails to upload photo evidence, lacks clear star rating guidance, and gives no confirmation whether the review has been published or sent for moderation.
+
+Question 7
+Q: How can the review section be improved to help you make faster purchasing decisions?
+
+A: By allowing filtering by star ratings, displaying real customer photos/videos at the top, and highlighting top pros and cons extracted automatically from verified buyer feedback.
+
+Question 8
+Q: What additional details or media would you like to attach when reviewing a product?
+
+A: I would like to attach unboxing videos, high-resolution product photos, and fit/size measurements for apparel items.
+
+Question 9
+Q: In your opinion, how should store managers handle negative or critical product reviews?
+
+A: Managers should respond publicly with resolution steps, offer direct customer support contact, and display whether the customer's issue was subsequently resolved.
+
+Question 10
+Q: Do you have any additional suggestions to enhance buyer trust across the e-commerce platform?
+
+A: Implement verified purchase tags, reward customers with loyalty points for detailed photo reviews, and flag suspicious duplicate reviews automatically.
+
+Section B: Closed Questions (10 Questions & Answers)
+1. Interview Closed Questions (5 Questions)
+Question 11
+Q: Is the current feedback management tool easy for store administrators to navigate?
+
+A: No, the interface is outdated and requires too many manual clicks to moderate single comments.
+
+Question 12
+Q: Does the current system support automated AI spam filtering for review submission?
+
+A: No, all moderation is done manually by the support team.
+
+Question 13
+Q: Will verified buyer badges be mandatory for featured customer testimonials?
+
+A: Yes, only purchases confirmed through order history will receive the verified badge.
+
+Question 14
+Q: Do you currently track return rates caused by inaccurate product expectations?
+
+A: Yes, approximately 25% of returns are directly linked to misleading or missing customer reviews.
+
+Question 15
+Q: Is photo and video upload capability required for the primary release of the new system?
+
+A: Yes, media upload capability is a mandatory requirement for launch.
+
+2. Web Form Closed Questions (5 Questions)
+Question 16
+Q: Have you ever cancelled a purchase due to a lack of genuine customer reviews?
+
+A: Yes.
+
+Question 17
+Q: Do product ratings (1 to 5 stars) directly influence your buying decision?
+
+A: Yes.
+
+Question 18
+Q: Would you be more likely to trust a review that includes customer photos/videos?
+
+A: Yes.
+
+Question 19
+Q: Is the process of submitting a product rating currently quick and simple?
+
+A: No.
+
+Question 20
+Q: Would you like to receive notification updates when a seller responds to your product review?
+
+A: Yes.
