@@ -1,1 +1,134 @@
+Project Identification
+Project Name: E-commerce Product Review & Rating System
 
+Target Domain: Online Retail & E-commerce Operations
+
+Primary Stakeholders: Store Managers, Verified Buyers, E-commerce Operations Team
+
+Executive Summary & System Context
+Current State of the System
+The current system suffers from significant operational limitations:
+
+Lack of Customer Confidence: Buyers hesitate to finalize purchases due to sparse and unverified customer feedback.
+
+High Returns & Cancellations: Lack of real customer photos leads to misaligned expectations regarding product quality and dimensions.
+
+Manual Moderation Overhead: Store administrators spend excessive hours checking for spam, inappropriate language, and promotional links.
+
+Lack of Analytics: Store managers have no centralized dashboard to quickly spot low-rated or defective products across categories.
+
+System Goals
+Boost Sales Conversion: Increase buyer trust by displaying verified buyer badges, detailed star breakdowns, and customer media uploads.
+
+Automate Content Moderation: Implement automated filters to detect spam, abusive content, and fake duplicate reviews.
+
+Minimize Return Rates: Ensure prospective buyers receive realistic product impressions prior to checkout.
+
+Deliver Managerial Insights: Build an analytics dashboard displaying key metrics (top-rated items, low-performing SKUs, sentiment trends).
+
+Interview Analysis Report
+1. Interview Opinion
+Stakeholder Perspective: Interviewees overwhelmingly agree that the existing review mechanism is inadequate and negatively impacts store revenue.
+
+Key Observations:
+
+Managers feel that current reviews do not accurately reflect true product quality.
+
+Customers view unverified reviews with skepticism, suspecting seller manipulation.
+
+System administrators find manual moderation inefficient and unsustainable as product inventory scales.
+
+2. Interview Feelings
+Frustration & Concern: High levels of anxiety regarding fake reviews damaging store credibility and brand reputation.
+
+Eagerness for Automation: Stakeholders expressed strong excitement for modern features such as AI moderation, automated verification tags, and instant photo/video rendering.
+
+Optimism for Transformation: Confidence that transitioning to a modernized review module will significantly increase sales conversion and customer satisfaction.
+
+Structured Summary Reports (Formatted Templates)
+Interview Report 1
+Person Interviewed: Mr. Ahmed (E-Commerce Operations Manager)
+
+Interviewer: Ahmed Allam
+
+Purpose of Interview:
+
+Evaluate current operational pain points in customer review processing.
+
+Identify requirements for automated review moderation and fraud detection.
+
+Define managerial reporting requirements for product rating performance.
+
+Summary of Interview
+The current system lacks automated verification, allowing unverified users to post feedback.
+
+High return rates are driven by customer dissatisfaction due to missing real-life product photos.
+
+Low-security measures leave the comment section vulnerable to spam links and fake reviews.
+
+Open Items
+Integrate automated sentiment and spam filtering algorithms.
+
+Build an administrative dashboard for flagging low-rated items (under 3 stars).
+
+Establish a verified buyer validation system linked directly to order history.
+
+Detailed Notes: See attached transcript.
+
+Interview Report 2
+Person Interviewed: Mr. Ali (Lead Store Administrator)
+
+Interviewer: Ahmed Allam
+
+Purpose of Interview:
+
+Understand daily administrative tasks related to comment moderation.
+
+Review requirements for photo/video upload management and storage.
+
+Determine notification workflows for customer feedback responses.
+
+Summary of Interview
+Manual moderation takes 10+ hours weekly, creating backlogs in publishing valid customer feedback.
+
+Customers frequently request the ability to attach unboxing photos and videos to reviews.
+
+Sellers require a dedicated portal interface to respond directly to customer inquiries and negative reviews.
+
+Open Items
+Implement drag-and-drop photo/video upload widgets on review submission forms.
+
+Create automated email/SMS notifications when a seller responds to a customer review.
+
+Design a 1-to-5 star rating breakdown UI (Quality, Delivery, Value for Money).
+
+Detailed Notes: See attached transcript.
+
+Interview Report 3
+Person Interviewed: Eng. Mohamed (Lead Software Engineer / System Architect)
+
+Interviewer: Ahmed Allam
+
+Purpose of Interview:
+
+Assess technical infrastructure and database schema requirements.
+
+Plan integration strategy with main e-commerce platform APIs.
+
+Evaluate security, rate limiting, and payment/loyalty reward integration points.
+
+Summary of Interview
+The new review module must integrate seamlessly via REST APIs / GraphQL endpoints.
+
+Database schema needs optimization for rapid aggregation of star ratings and media query filtering.
+
+Multiple payment and loyalty mechanisms should reward users with store points upon submitting verified photo reviews.
+
+Open Items
+Define API endpoints for review CRUD operations and media attachment uploads.
+
+Implement rate limiting and CAPTCHA to prevent automated submission bots.
+
+Integrate customer loyalty reward triggers upon publishing verified purchase reviews.
+
+Detailed Notes: See attached transcript.
