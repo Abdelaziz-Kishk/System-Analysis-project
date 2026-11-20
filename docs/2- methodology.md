@@ -10,7 +10,7 @@ For the "E-commerce Product Review & Rating System", we have selected the Rapid 
 
 2. Why RAD fits this project:
 
-- Flexible Versional Releases: Allows launching a working core module early and pushing continuous updates (e.g., adding Python NLP filters and Power BI dashboards in subsequent releases).
+- Flexible Versional Releases: Allows launching a working core module early and pushing continuous updates.
 
 - Tight Deadline Compliance: Helps meet the project deadline (Before Jan 1) by prioritizing rapid prototyping over lengthy documentation.
 
