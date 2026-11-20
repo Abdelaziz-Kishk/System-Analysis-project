@@ -2,7 +2,7 @@
 
 ---
 
-## 1. Technical Feasibility 
+1. Technical Feasibility 
 
 This section evaluates whether the organization has the necessary technical resources, data analytics capabilities, and software stack to design and deploy the rating and review module.
 
@@ -21,7 +21,7 @@ This section evaluates whether the organization has the necessary technical reso
 
 ---
 
-## 2. Economic Feasibility 
+2. Economic Feasibility 
 
 This section assesses the costs, benefits, and expected financial returns of building a data-driven review system.
 
@@ -38,7 +38,7 @@ This section assesses the costs, benefits, and expected financial returns of bui
 
 ---
 
-## 3. Organizational Feasibility
+3. Organizational Feasibility
 
 This section evaluates how well the system aligns with business goals, staff capabilities, and management requirements.
 
