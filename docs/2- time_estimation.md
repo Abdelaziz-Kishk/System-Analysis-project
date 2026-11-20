@@ -2,7 +2,7 @@ Total Duration: 6 Weeks
 Execution Strategy: Iterative RAD Cycles & Version Releases (v1.0, v2.0, v3.0)
 
 --------------------------------------------------
-2. Phase-by-Phase Timeline & Deliverables
+1. Phase-by-Phase Timeline & Deliverables
 --------------------------------------------------
 
 Phase 1: Requirements Planning & Database Architecture
@@ -76,7 +76,7 @@ Deliverable: Final Production Release & Course Project Presentation.
 
 
 --------------------------------------------------
-3. Task Allocation Matrix (5-Member Team)
+2. Task Allocation Matrix (5-Member Team)
 --------------------------------------------------
 
 - System Analysis & Database Design: Full Team Collaboration
