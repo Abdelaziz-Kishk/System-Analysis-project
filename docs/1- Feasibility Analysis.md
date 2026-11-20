@@ -10,7 +10,7 @@ This section evaluates whether the organization has the necessary technical reso
    * Frontend: HTML5, CSS3, JavaScript / React.js for interactive user interfaces.
    * Relational Database (SQL): Microsoft SQL Server or PostgreSQL to design a structured relational schema for users, products, orders, and verified reviews.
    * Data Processing & NLP (Python): Python (Pandas, NLTK/TextBlob) for processing customer text, filtering spam/fake reviews, and performing automated Sentiment Analysis.
-   * Data Visualization (Tableau): Tableau integrated with the SQL database to build dynamic executive dashboards for tracking product ratings and customer satisfaction trends.
+   * Data Visualization (Power BI): Power BI integrated with the SQL database to build dynamic executive dashboards for tracking product ratings and customer satisfaction trends.
 
 2. Infrastructure & Integration:
    * The system operates fully online via cloud servers.
