@@ -1,10 +1,10 @@
-###### **Project Sponsor:**
+**Project Sponsor:**
 
 Abdelaziz
 
 
 
-###### **Business Need:**
+**Business Need:**
 
 1. Reduce abandoned shopping carts caused by product quality doubts
 2. Gather authentic and verified buyer feedback
@@ -13,7 +13,7 @@ Abdelaziz
 
 ###### 
 
-###### **Business Requirements:**
+**Business Requirements:**
 
 1. Verified Buyer Reviews
 2. Media Support
@@ -22,7 +22,7 @@ Abdelaziz
 
 ###### 
 
-###### **Business Value:**
+**Business Value:**
 
 1. Tangible Value : Estimated 15-20% increase in sales conversion rates and a reduction in product returns
 
@@ -30,7 +30,7 @@ Abdelaziz
 
 ###### 
 
-###### **Special Issues or Constraints:**
+**Special Issues or Constraints:**
 
 1. Deadline: before 1 January 
 
