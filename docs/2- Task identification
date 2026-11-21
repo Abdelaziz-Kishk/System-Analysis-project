@@ -1,0 +1,29 @@
+1. Abdelaziz Mohamed Abdelaziz Kishk (Team Leader & System Analyst / Analytics)
+- Project Scope Definition & System Proposal (System Request, Feasibility Analysis, Methodology).
+- Designing Database Schema (ERD & Data Dictionary) for Reviews, Users, Orders & Products.
+- SQL Database implementation (SQL Server / PostgreSQL) and query optimization.
+- Developing and integrating Power BI Analytics Dashboards for executive management.
+
+--------------------------------------------------
+2. Mohammed Waleed Abu El-Ela Ahmed (Front-End & UI Developer)
+- Designing UI/UX Wireframes and Prototypes for the Product Review Module.
+- Developing interactive Front-End interfaces using React.js / HTML5 / CSS3 / JavaScript.
+- Implementing star rating components, text input fields, and multi-media upload controls.
+
+--------------------------------------------------
+3. Youssef Osama Ahmed Sherif (Back-End & API Developer)
+- Building API endpoints to connect the E-commerce platform with the Review Module.
+- Implementing Order Verification logic to ensure reviews are restricted to Verified Buyers.
+- Handling file storage pipelines for uploaded customer photos and videos.
+
+--------------------------------------------------
+4. Abdallah Wahba El-Said Atallah (Python & Data Processing Specialist)
+- Writing Python data processing scripts (Pandas, NLTK / TextBlob).
+- Developing Automated Moderation algorithms for Spam Detection and Fake Review Filtering.
+- Implementing Sentiment Analysis algorithms to classify user feedback text.
+
+--------------------------------------------------
+5. Kirolos Gorge Saad Attia (QA, Testing & Integration Specialist)
+- Performing System Integration Testing between UI, SQL Database, and Python Scripts.
+- Conducting Performance & Load Testing to ensure no impact on website loading speed.
+- Managing Security & Anti-Spam Validation and final QA bug reporting.
