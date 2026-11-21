@@ -1,88 +1,44 @@
-Total Duration: 6 Weeks
-Execution Strategy: Iterative RAD Cycles & Version Releases (v1.0, v2.0, v3.0)
+1. SDLC Standard Time Allocation Matrix
 
---------------------------------------------------
-1. Phase-by-Phase Timeline & Deliverables
---------------------------------------------------
+The estimated duration for each phase is calculated based on the standard SDLC time allocation percentages, using an actual **Planning phase duration of 11 days**.
 
-Phase 1: Requirements Planning & Database Architecture
-Duration: Week 1
+$$\text{Total Estimated Project Duration} = \frac{\text{Actual Planning Days}}{\text{Planning Percentage}} = \frac{11}{0.15} \approx 73 \text{ days}$$
 
-Tasks:
-- Finalize System Request, Feasibility Study, and Methodology documentation.
-- Define functional/non-functional requirements and Use Cases.
-- Design relational database schema (Users, Products, Orders, Verified Reviews) in SQL Server/PostgreSQL.
-- Set up project repository on GitHub for team collaboration.
+| Phase | Standard Percentage (%) | Calculated Duration (Days) | Status |
+| :--- | :---: | :---: | :---: |
+| **Planning** | 15% | **Actual: 11 days** | Completed |
+| **Analysis** | 20% | 15 days | In Progress |
+| **Design** | 35% | 26 days | Scheduled |
+| **Implementation** | 30% | 22 days | Scheduled |
+| **Total Project** | **100%** | **74 days** | — |
 
-Deliverable: System Requirements Specification & SQL Database Schema.
+---
 
+## 2. RAD Iterative Timeline & Milestones Breakdown
 
-------------------
+Below is the detailed 6-week execution breakdown aligned with the **Rapid Application Development (RAD)** framework:
 
+### Week 1: Requirements Planning & Initial Setup (Planning Phase)
+- Finalize System Request, Feasibility Analysis, and RAD Methodology documentation.
+- Gather functional and non-functional requirements from e-commerce stakeholders.
+- Design high-level ERD and database schema for products, reviews, and verified orders.
 
-Phase 2: Core Development & Version 1.0 (Iterative Prototyping)
-Duration: Weeks 2 - 3
+### Weeks 2–3: Iteration 1 — Core Review Module V1.0 (Design & Analysis Phase)
+- Implement relational database structures using MS SQL Server.
+- Build responsive front-end components (Star Ratings 1-5, Text Feedback, Media Uploads) using React.js/HTML5.
+- Develop Verified Buyer verification logic connected to order history.
 
-Tasks:
-- Build frontend rating and review component using React.js / HTML5 / CSS3 / JavaScript.
-- Implement star-rating selection (1 to 5 stars), text review submission, and media upload features.
-- Develop backend verification logic to restrict reviews exclusively to "Verified Buyers".
-- Perform baseline database integration.
+### Week 4: Iteration 2 — Automated Moderation V2.0 (Implementation Phase)
+- Develop Python NLP data preprocessing pipelines (NLTK / TextBlob).
+- Implement automated profanity filters and anti-spam detection for review submissions.
+- Integrate automated sentiment scoring to route flagged content for manual review.
 
-Deliverable: Working Prototype Version 1.0 (Basic Review & Verification Module).
+### Week 5: Iteration 3 — Analytics & Power BI V3.0 (Implementation Phase)
+- Connect SQL Server database directly to Power BI Desktop.
+- Create dynamic executive dashboards tracking product ratings and return risk indicators.
+- Enable management drill-down filters for defective inventory control.
 
-
-------------------
-
-
-Phase 3: AI Moderation & Security Version 2.0
-Duration: Week 4
-
-Tasks:
-- Develop Python automated moderation scripts utilizing NLTK/TextBlob for sentiment analysis.
-- Implement strict anti-spam filters to block unverified or fraudulent entries.
-- Integrate automated moderation logic with the primary database.
-
-Deliverable: Working Prototype Version 2.0 (Automated Content & Anti-Spam Filtering).
-
-
-------------------
-
-
-Phase 4: Power BI Analytics Dashboard & Version 3.0
-Duration: Week 5
-
-Tasks:
-- Establish secure data connection between the relational database and Microsoft Power BI.
-- Design dynamic executive dashboards for store managers to track top/low-rated products and customer sentiment trends.
-- Conduct module integration with existing e-commerce site architecture.
-
-Deliverable: Working Prototype Version 3.0 (Analytics Dashboard Integration).
-
-
--------------------
-
-
-Phase 5: System Testing, Performance Optimization & Final Deployment (Cutover)
-Duration: Week 6 (Before January 1)
-
-Tasks:
-- Perform system-wide integration, security, and performance load testing.
-- Optimize query performance to guarantee zero impact on overall e-commerce page load speeds.
-- Finalize project documentation and prepare the final presentation for course submission.
-
-Deliverable: Final Production Release & Course Project Presentation.
-
-
-
---------------------------------------------------
-2. Task Allocation Matrix (5-Member Team)
---------------------------------------------------
-
-- System Analysis & Database Design: Full Team Collaboration
-- Frontend Review UI (React/JS): Abdelaziz Mohamed & Youssef Osama
-- Database & Backend Integration (SQL): Mohammed Waleed & Abdallah Wahba
-
-- AI Moderation & Sentiment Analysis (Python): Kirolos Gorge & Abdelaziz Mohamed
-
-- Data Analytics & Dashboard (Power BI): Team 
+### Week 6: System Integration, QA & Final Delivery (Cutover Phase)
+- Conduct integration testing between UI, SQL Database, and Python moderation scripts.
+- Perform load and performance benchmarking to ensure zero slowdown on site speeds.
+- Finalize documentation and deliver the completed system prior to January 1st deadline.
