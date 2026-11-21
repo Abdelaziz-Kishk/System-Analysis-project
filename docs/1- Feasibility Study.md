@@ -1,7 +1,3 @@
-Feasibility Analysis — E-commerce Product Review & Rating System
-
----
-
 1. Technical Feasibility 
 
 This section evaluates whether the organization has the necessary technical resources, data analytics capabilities, and software stack to design and deploy the rating and review module.
