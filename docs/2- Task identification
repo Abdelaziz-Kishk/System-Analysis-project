@@ -1,29 +1,49 @@
-1. Abdelaziz Mohamed Abdelaziz Kishk (Team Leader & System Analyst / Analytics)
-- Project Scope Definition & System Proposal (System Request, Feasibility Analysis, Methodology).
-- Designing Database Schema (ERD & Data Dictionary) for Reviews, Users, Orders & Products.
-- SQL Database implementation (SQL Server / PostgreSQL) and query optimization.
-- Developing and integrating Power BI Analytics Dashboards for executive management.
++----+---------------------------------------------------+--------------------+----------+------------+----------+
+| ID | Task Name                                         | Assigned To        | Priority | Start Week | End Week |
++----+---------------------------------------------------+--------------------+----------+------------+----------+
+| 1  | Project Charter & Proposal Documentation          | Abdelaziz Mohamed  | High     | Week 1     | Week 1   |
+| 2  | Database Architecture & Schema Design (ERD)       | Abdelaziz Mohamed  | High     | Week 1     | Week 2   |
+| 3  | SQL Database Implementation & Query Scripting     | Abdelaziz Mohamed  | High     | Week 2     | Week 3   |
+| 4  | Power BI Analytics Dashboard Development          | Abdelaziz Mohamed  | Medium   | Week 5     | Week 5   |
+| 5  | UI/UX Wireframing & Responsive Prototypes         | Mohammed Waleed    | High     | Week 1     | Week 2   |
+| 6  | Front-End Review UI Development (React/JS)        | Mohammed Waleed    | High     | Week 2     | Week 3   |
+| 7  | Back-End API Development & E-commerce Integration | Youssef Osama      | High     | Week 2     | Week 3   |
+| 8  | Verified Buyer Logic & Order Verification API     | Youssef Osama      | High     | Week 3     | Week 3   |
+| 9  | Customer Media Upload Storage Pipeline            | Youssef Osama      | Medium   | Week 3     | Week 4   |
+| 10 | Python Data Environment & NLTK Library Setup      | Abdallah Wahba     | Medium   | Week 3     | Week 4   |
+| 11 | Automated Moderation & Anti-Spam Filtering        | Abdallah Wahba     | High     | Week 4     | Week 4   |
+| 12 | Sentiment Analysis Classifier Script (Python)     | Abdallah Wahba     | Medium   | Week 4     | Week 4   |
+| 13 | System Integration & Page Speed Load Testing      | Kirolos Gorge      | High     | Week 5     | Week 6   |
+| 14 | Security Validation & QA Bug Tracking             | Kirolos Gorge      | High     | Week 5     | Week 6   |
+| 15 | Final System Cutover & Course Project Submission  | Kirolos Gorge      | High     | Week 6     | Week 6   |
++----+---------------------------------------------------+--------------------+----------+------------+----------+
 
 --------------------------------------------------
-2. Mohammed Waleed Abu El-Ela Ahmed (Front-End & UI Developer)
-- Designing UI/UX Wireframes and Prototypes for the Product Review Module.
-- Developing interactive Front-End interfaces using React.js / HTML5 / CSS3 / JavaScript.
-- Implementing star rating components, text input fields, and multi-media upload controls.
-
+2. MEMBER ROLE & RESPONSIBILITY BREAKDOWN
 --------------------------------------------------
+
+1. Abdelaziz Mohamed Abdelaziz Kishk (Team Lead / System Analyst & Data Engineer)
+   - Lead documentation for System Request, Feasibility Study, and RAD Methodology.
+   - Design Relational Database Schema (ERD & Data Dictionary) for Users, Orders, Products, and Reviews.
+   - Construct database tables and write optimized SQL queries in MS SQL Server / PostgreSQL.
+   - Configure data pipelines and build interactive Power BI executive dashboards.
+
+2. Mohammed Waleed Abu El Ela Ahmed (Front-End & UI Developer)
+   - Create UI/UX wireframes and layout prototypes for the review component.
+   - Implement interactive front-end elements using React.js, HTML5, CSS3, and JavaScript.
+   - Build 1-5 star rating widgets, text review submission inputs, and media attachment selectors.
+
 3. Youssef Osama Ahmed Sherif (Back-End & API Developer)
-- Building API endpoints to connect the E-commerce platform with the Review Module.
-- Implementing Order Verification logic to ensure reviews are restricted to Verified Buyers.
-- Handling file storage pipelines for uploaded customer photos and videos.
+   - Develop secure RESTful API endpoints connecting the core store platform to the review module.
+   - Program backend logic restricting submission access strictly to Verified Buyers.
+   - Manage photo and video media upload pipelines and file system storage.
 
---------------------------------------------------
-4. Abdallah Wahba El-Said Atallah (Python & Data Processing Specialist)
-- Writing Python data processing scripts (Pandas, NLTK / TextBlob).
-- Developing Automated Moderation algorithms for Spam Detection and Fake Review Filtering.
-- Implementing Sentiment Analysis algorithms to classify user feedback text.
+4. Abdallah Wahba El Said Atallah (Python & NLP Specialist)
+   - Configure Python data processing environments using Pandas, NLTK, and TextBlob.
+   - Engineer automated moderation tools to detect profanity, spam, and unverified submission attempts.
+   - Build sentiment analysis algorithms to categorize buyer feedback for administrative analytics.
 
---------------------------------------------------
-5. Kirolos Gorge Saad Attia (QA, Testing & Integration Specialist)
-- Performing System Integration Testing between UI, SQL Database, and Python Scripts.
-- Conducting Performance & Load Testing to ensure no impact on website loading speed.
-- Managing Security & Anti-Spam Validation and final QA bug reporting.
+5. Kirolos Gorge Saad Attia (QA, Security & Integration Specialist)
+   - Execute integration testing between React UI, SQL Database, and Python NLP modules.
+   - Conduct performance load testing to ensure zero degradation of e-commerce web page speed.
+   - Perform security audits against fake reviews and manage bug tracking ahead of the Jan 1 deadline.
